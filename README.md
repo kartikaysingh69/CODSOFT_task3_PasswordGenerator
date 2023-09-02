@@ -13,7 +13,7 @@ Welcome to the Password Generator GitHub repository! This repository contains a 
 
 1. Clone the repository to your local machine using the following command:
 
-git clone https://github.com/your-username/password-generator.git
+git clone https://github.com/kartikaysingh69/CODSOFT_task3_PasswordGenerator.git
 
 2. Navigate to the repository's directory:
 
