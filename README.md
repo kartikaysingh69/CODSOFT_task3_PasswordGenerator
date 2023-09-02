@@ -13,15 +13,15 @@ Welcome to the Password Generator GitHub repository! This repository contains a 
 
 1. Clone the repository to your local machine using the following command:
 
-git clone https://github.com/kartikaysingh69/CODSOFT_task3_PasswordGenerator.git
+- git clone https://github.com/kartikaysingh69/CODSOFT_task3_PasswordGenerator.git
 
 2. Navigate to the repository's directory:
 
-cd password-generator
+- cd password-generator
 
 3. Run the Password Generator application:
 
-python password_generator.py
+-  python password_generator.py
 
 
 4. The application window will open, providing options to customize your password:
