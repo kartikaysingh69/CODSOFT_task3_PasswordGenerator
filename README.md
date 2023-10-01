@@ -41,10 +41,6 @@ Welcome to the Password Generator GitHub repository! This repository contains a 
 
 Contributions are welcome! If you have ideas for improving the Password Generator or want to add new features, feel free to open an issue or submit a pull request. Please adhere to the project's [Code of Conduct](CODE_OF_CONDUCT.md) during discussions and contributions.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE), allowing you to freely use, modify, and distribute the code. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 If you have any questions, suggestions, or feedback, you can contact the project owner at kartikaysingh929@gmail.com.
